@@ -1,0 +1,7 @@
+numpy
+numba
+plotly
+dash
+dash_daq
+scikit-image
+
